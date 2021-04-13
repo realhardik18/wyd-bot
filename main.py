@@ -1,12 +1,5 @@
-import discord
-import os
-import requests
-import json
 from discord.ext import commands
 from keep_alive import keep_alive
-import pickle
-import random
-import time
 
 client = commands.Bot(command_prefix="wyd ")
 
