@@ -1,5 +1,6 @@
 from discord.ext import commands
 from keep_alive import keep_alive
+import os
 
 client = commands.Bot(command_prefix="wyd ")
 
